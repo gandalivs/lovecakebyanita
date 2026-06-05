@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Home",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "name": "About",
+    "url": "/pages/about.html"
+  },
+  {
+    "id": 3,
+    "name": "Products",
+    "url": "/pages/products.html"
+  },
+  {
+    "id": 4,
+    "name": "Gallery",
+    "url": "/pages/gallery.html"
+  },
+  {
+    "id": 5,
+    "name": "Testimonials",
+    "url": "/pages/testimonials.html"
+  },
+  {
+    "id": 6,
+    "name": "FAQ",
+    "url": "/pages/faq.html"
+  },
+  {
+    "id": 7,
+    "name": "Contact",
+    "url": "/pages/contact.html"
+  }
+]

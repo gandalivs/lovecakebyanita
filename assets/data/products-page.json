@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "eyebrow": "Product Catalog",
+    "title": "Premium bakery favorites for gifting and celebrations",
+    "description": "Explore cakes, tarts, and fresh bolen prepared with elegant finishing, balanced sweetness, and warm handmade details."
+  },
+  "controls": {
+    "search_label": "Search products",
+    "search_placeholder": "Search cake, tart, bolen...",
+    "category_label": "Category",
+    "all_categories_label": "All Products",
+    "sort_label": "Sort by",
+    "result_singular": "product",
+    "result_plural": "products",
+    "empty_title": "No products found",
+    "empty_description": "Try another keyword or choose a different category.",
+    "reset_label": "Reset filters",
+    "pagination_label": "Product catalog pagination",
+    "previous_label": "Previous",
+    "next_label": "Next"
+  },
+  "sort_options": [
+    {
+      "value": "featured",
+      "label": "Featured first"
+    },
+    {
+      "value": "name_asc",
+      "label": "Name A-Z"
+    },
+    {
+      "value": "price_asc",
+      "label": "Price low to high"
+    },
+    {
+      "value": "price_desc",
+      "label": "Price high to low"
+    }
+  ],
+  "product_card": {
+    "best_seller_label": "Best Seller",
+    "featured_label": "Featured",
+    "order_label": "Order",
+    "order_message_template": "Halo LoveCakeByAnita, saya tertarik dengan produk {product_name}. Mohon info ketersediaannya."
+  },
+  "pagination": {
+    "items_per_page": 12
+  }
+}

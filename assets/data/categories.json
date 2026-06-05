@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Cake","slug":"cake","description":"Signature celebration cakes with premium cream, chocolate, and fresh toppings.","thumbnail":"/assets/images/categories/cake.webp","is_featured":true,"display_order":1},
+  {"id":2,"name":"Tart","slug":"tart","description":"Elegant tart cakes for birthdays, gifts, and family gatherings.","thumbnail":"/assets/images/categories/tart.webp","is_featured":true,"display_order":2},
+  {"id":3,"name":"Bolen","slug":"bolen","description":"Freshly baked Indonesian pastry with buttery layers and sweet fillings.","thumbnail":"/assets/images/categories/bolen.webp","is_featured":true,"display_order":3},
+  {"id":4,"name":"Cookies","slug":"cookies","description":"Small-batch cookies for daily treats, hampers, and special moments.","thumbnail":"/assets/images/categories/cookies.webp","is_featured":true,"display_order":4},
+  {"id":5,"name":"Hampers","slug":"hampers","description":"Curated bakery gift boxes for celebrations, holidays, and corporate gifting.","thumbnail":"/assets/images/categories/hampers.webp","is_featured":false,"display_order":5},
+  {"id":6,"name":"Seasonal","slug":"seasonal","description":"Limited seasonal cakes and pastries crafted for festive occasions.","thumbnail":"/assets/images/categories/seasonal.webp","is_featured":false,"display_order":6}
+]

@@ -1,0 +1,10 @@
+[
+  {"id":1,"question":"Bagaimana cara melakukan pemesanan?","answer":"Pemesanan dapat dilakukan melalui tombol WhatsApp dengan menyebutkan produk, jumlah, tanggal pengambilan atau pengiriman, dan alamat tujuan.","display_order":1},
+  {"id":2,"question":"Apakah bisa custom desain cake?","answer":"Bisa. Untuk custom cake, kirim referensi desain, ukuran, tema warna, dan tulisan yang diinginkan melalui WhatsApp.","display_order":2},
+  {"id":3,"question":"Berapa lama estimasi pengerjaan cake?","answer":"Cake ready model standar sebaiknya dipesan minimal H-2. Untuk custom cake, disarankan H-5 sampai H-7 tergantung detail desain.","display_order":3},
+  {"id":4,"question":"Apakah tersedia pengiriman?","answer":"Tersedia pengiriman area tertentu menggunakan kurir instan atau kurir pilihan toko. Biaya kirim menyesuaikan jarak dan layanan.","display_order":4},
+  {"id":5,"question":"Apakah produk dibuat fresh?","answer":"Ya. Produk dibuat fresh sesuai jadwal produksi agar tekstur dan rasa tetap optimal saat diterima customer.","display_order":5},
+  {"id":6,"question":"Apakah bisa pesan hampers?","answer":"Bisa. Hampers dapat disesuaikan dengan pilihan produk, kartu ucapan, dan tema kemasan sesuai kebutuhan.","display_order":6},
+  {"id":7,"question":"Metode pembayaran apa saja yang tersedia?","answer":"Pembayaran tersedia melalui transfer bank dan e-wallet. Detail pembayaran akan dikirim setelah pesanan dikonfirmasi.","display_order":7},
+  {"id":8,"question":"Apakah harga sudah termasuk dekorasi?","answer":"Harga produk standar sudah termasuk dekorasi dasar. Dekorasi custom, topper, atau tambahan khusus dapat dikenakan biaya tambahan.","display_order":8}
+]

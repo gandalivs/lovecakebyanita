@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "eyebrow": "Premium Handmade Bakery",
+    "headline": "Beautiful cakes for every sweet moment",
+    "description": "LoveCakeByAnita creates elegant cakes, tarts, and freshly baked bolen with premium ingredients, warm details, and a modern boutique finish.",
+    "primary_cta_label": "Order Now",
+    "primary_cta_url": "https://wa.me/6281234567890",
+    "secondary_cta_label": "View Products",
+    "secondary_cta_url": "/pages/products.html",
+    "image": "/assets/images/home/hero-cake.webp",
+    "image_alt": "Premium handmade cake with soft cream decoration",
+    "highlight_title": "Fresh Daily",
+    "highlight_description": "Premium cakes and bakery gifts"
+  },
+  "sections": {
+    "categories": {
+      "eyebrow": "Our Signature Collection",
+      "title": "Freshly baked favorites",
+      "description": "A curated selection of cakes, tarts, bolen, and cookies prepared for gifting, celebrations, and everyday treats."
+    },
+    "best_seller": {
+      "eyebrow": "Customer Favorites",
+      "title": "Best seller bakery picks",
+      "description": "Most-loved products selected from our fresh daily menu.",
+      "carousel_label": "Best seller carousel",
+      "order_label": "Order",
+      "order_message_template": "Halo LoveCakeByAnita, saya tertarik dengan produk {product_name}. Mohon info ketersediaannya."
+    },
+    "about_preview": {
+      "eyebrow": "About LoveCakeByAnita",
+      "title": "Handmade with premium ingredients and heartfelt details",
+      "description": "Every order is prepared with careful finishing, balanced sweetness, and packaging that feels ready to gift. We focus on fresh textures, elegant decoration, and warm service from first chat to delivery.",
+      "image": "/assets/images/home/about-preview.webp",
+      "image_alt": "Elegant bakery preparation table with handmade cake details"
+    },
+    "instagram": {
+      "eyebrow": "Instagram Friendly",
+      "title": "Fresh from our feed",
+      "description": "A glimpse of recent bakes, gift boxes, and celebration details."
+    },
+    "testimonials": {
+      "eyebrow": "Happy Customers",
+      "title": "Sweet words from our customers",
+      "description": "Real impressions from celebrations, family gatherings, and bakery gifting moments."
+    },
+    "faq": {
+      "eyebrow": "Need Help?",
+      "title": "Quick answers before ordering",
+      "description": "A few essentials to help you plan your cake or bakery gift."
+    }
+  },
+  "why_choose_us": [
+    {"id":1,"title":"Fresh Daily","description":"Made close to pickup or delivery time for a soft, fresh bakery experience."},
+    {"id":2,"title":"Premium Ingredients","description":"Balanced flavors using quality cream, chocolate, fruit, and pastry layers."},
+    {"id":3,"title":"Custom Design","description":"Elegant design support for birthdays, gifts, family events, and seasonal moments."},
+    {"id":4,"title":"Trusted Bakery","description":"Responsive ordering, neat packaging, and consistent handmade quality."}
+  ],
+  "whatsapp_cta": {
+    "label": "Order via WhatsApp",
+    "eyebrow": "Ready to order?",
+    "title": "Let us prepare something sweet for your next moment",
+    "message": "Halo LoveCakeByAnita, saya ingin bertanya tentang produk bakery."
+  }
+}
