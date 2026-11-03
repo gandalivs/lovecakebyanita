@@ -1,8 +1,0 @@
-[
-  {"id":1,"name":"Dina Prameswari","photo":"/assets/images/testimonials/dina-prameswari.webp","rating":5,"review":"Kuenya lembut, manisnya pas, dan dekorasinya terlihat premium. Anak saya senang sekali waktu ulang tahun.","location":"Jakarta","product_slug":"premium-birthday-cake","display_order":1},
-  {"id":2,"name":"Raka Mahendra","photo":"/assets/images/testimonials/raka-mahendra.webp","rating":5,"review":"Bolen pisang coklat kejunya selalu fresh. Packaging rapi, cocok untuk dibawa ke acara keluarga.","location":"Bekasi","product_slug":"bolen-pisang-coklat-keju","display_order":2},
-  {"id":3,"name":"Nadia Salsabila","photo":"/assets/images/testimonials/nadia-salsabila.webp","rating":5,"review":"Strawberry shortcake-nya ringan dan cantik banget untuk foto. Order via WhatsApp juga responsif.","location":"Depok","product_slug":"strawberry-shortcake","display_order":3},
-  {"id":4,"name":"Ayu Lestari","photo":"/assets/images/testimonials/ayu-lestari.webp","rating":5,"review":"Fruit tart-nya segar, crust-nya renyah, dan tampilannya elegan. Repeat order untuk hampers kantor.","location":"Tangerang","product_slug":"classic-fruit-tart","display_order":4},
-  {"id":5,"name":"Kevin Wijaya","photo":"/assets/images/testimonials/kevin-wijaya.webp","rating":5,"review":"Chocolate ganache cake terasa premium dan tidak bikin enek. Keluarga semua suka.","location":"Jakarta","product_slug":"chocolate-ganache-cake","display_order":5},
-  {"id":6,"name":"Maya Kartika","photo":"/assets/images/testimonials/maya-kartika.webp","rating":5,"review":"Bolen mix premium cocok untuk hadiah. Rasanya variatif, tekstur pastry-nya juga flaky.","location":"Bogor","product_slug":"bolen-mix-premium","display_order":6}
-]

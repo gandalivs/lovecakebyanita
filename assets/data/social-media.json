@@ -1,5 +1,0 @@
-[
-  {"id":1,"platform":"instagram","label":"Instagram","username":"lovecake_byanita","url":"https://www.instagram.com/lovecake_byanita","is_active":true,"display_order":1},
-  {"id":2,"platform":"whatsapp","label":"WhatsApp","username":"LoveCakeByAnita","url":"https://wa.me/6281234567890","is_active":true,"display_order":2},
-  {"id":3,"platform":"tiktok","label":"TikTok","username":"lovecakebyanita","url":"https://www.tiktok.com/@lovecakebyanita","is_active":false,"display_order":3}
-]
